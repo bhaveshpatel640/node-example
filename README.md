@@ -8,3 +8,8 @@ node-example
 heroku create
 git push heroku master
 ```
+
+
+
+Open URL on browser
+https://fast-reaches-24151.herokuapp.com/api/todos
